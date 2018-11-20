@@ -1,1 +1,1 @@
-Trend detection in online news with scapy und LDAvis
+Trend detection in online news with spaCy und LDAvis

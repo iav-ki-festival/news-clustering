@@ -1,0 +1,13 @@
+jupyter
+python-docx
+nltk
+pdfminer.six
+matplotlib
+numpy
+pandas
+ipywidgets
+gensim
+pyLDAvis
+yaspin
+notebook
+Whoosh
